@@ -25,3 +25,5 @@ and I am passionate about Ethical Hacking and vulnerability assessment.
 - [Project Name](Link to the project): A brief description of what the project does.
 
 
+## linkedin
+https://www.linkedin.com/in/ziad-abuziad-465513318/?trk=opento_sprofile_details
