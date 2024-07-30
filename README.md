@@ -22,7 +22,7 @@ and I am passionate about Ethical Hacking and vulnerability assessment.
 
 ## 🚀 Projects
 
-- [Project Name](Link to the project): A brief description of what the project does.
+- Graduation Project:[ Malware Image Detection Using Machine Learning ]: made it from scratch with Accuracy: 87%
 
 
 ## linkedin
