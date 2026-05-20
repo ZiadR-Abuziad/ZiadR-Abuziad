@@ -1,3 +1,5 @@
+![Banner](https://raw.githubusercontent.com/ZiadR-Abuziad/ZiadR-Abuziad/main/banner.png)
+
 # Hi there, I'm Ziad Abuziad 👋
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ZiadR-Abuziad&style=flat-square&color=blue)](https://github.com/ZiadR-Abuziad)
