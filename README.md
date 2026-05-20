@@ -80,9 +80,9 @@ Graduation project — 87% accuracy on 11 malware classes.
 
 ## 📊 GitHub Stats
 
-![Ziad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZiadR-Abuziad&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiadR-Abuziad&layout=compact&theme=dark&hide_border=true)
+![Ziad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZiadR-Abuziad&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiadR-Abuziad&layout=compact&theme=dark&hide_border=true&langs_count=6)
 ---
 
 ## 📫 Contact
