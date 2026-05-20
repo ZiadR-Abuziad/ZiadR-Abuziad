@@ -43,10 +43,13 @@ Handles photo processing, VCard generation, and database import.
 
 ---
 
-### 🎓 Malware Image Detection (Graduation Project)
-Built a malware detection system using image-based machine learning from scratch.
-Achieved 87% accuracy on real malware samples.
-> Python · Machine Learning · Computer Vision
+### 🦠 [Malware Image Detection](https://github.com/ZiadR-Abuziad/malware-image-detection)
+Malware classification system using image visualization and deep learning.
+Converts malware binaries into images and classifies them using ResNet50.
+Graduation project — 87% accuracy on 11 malware classes.
+> Python · TensorFlow · ResNet50 · Flask · Keras · Google Colab
+
+---
 
 ---
 
