@@ -53,6 +53,11 @@ Graduation project — 87% accuracy on 11 malware classes.
 
 ---
 
+### 📊 [BioStar2 → PowerBI Attendance Solution](https://github.com/ZiadR-Abuziad/biostar2-powerbi-attendance)
+Real-time T&A data pipeline from BioStar2 to PowerBI via SQL Server.
+Machine-locked license system, compiled to .exe, no Python needed on client.
+> Python · SQL Server · PowerBI · BioStar2 · PyInstaller
+
 ---
 
 ## 🛠️ Technologies & Tools
